@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MisConciertos</string>
+    <string name="fechaLayout">fecha</string>
+    <string name="nombreArtistaLayout">nombre Artista</string>
+    <string name="tituloLayout">Agregar Concierto</string>
+    <string name="valor_de_entradaLayout">valor de entrada</string>
+    <string-array name="calificacion">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+
+    </string-array>
+</resources>
